@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExemplosADS", "ExemplosADS\ExemplosADS.csproj", "{FA4833B7-1B12-4CD4-94EE-D5647D2F64DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lista02", "Lista02\Lista02.csproj", "{3E0C62C1-2C79-4738-9E42-4005F0A581D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estaticas", "Estaticas\Estaticas.csproj", "{F064D75C-71D4-4FBB-8520-0760F6D30949}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4833B7-1B12-4CD4-94EE-D5647D2F64DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4833B7-1B12-4CD4-94EE-D5647D2F64DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4833B7-1B12-4CD4-94EE-D5647D2F64DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4833B7-1B12-4CD4-94EE-D5647D2F64DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E0C62C1-2C79-4738-9E42-4005F0A581D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0C62C1-2C79-4738-9E42-4005F0A581D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0C62C1-2C79-4738-9E42-4005F0A581D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0C62C1-2C79-4738-9E42-4005F0A581D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F064D75C-71D4-4FBB-8520-0760F6D30949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F064D75C-71D4-4FBB-8520-0760F6D30949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F064D75C-71D4-4FBB-8520-0760F6D30949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F064D75C-71D4-4FBB-8520-0760F6D30949}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54F72C1-90D4-4718-AD79-DF745D567360}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\ExemplosADS\Lista02\bin\Debug\net7.0\Lista02.exe
+C:\Users\elias\source\repos\ExemplosADS\Lista02\bin\Debug\net7.0\Lista02.deps.json
+C:\Users\elias\source\repos\ExemplosADS\Lista02\bin\Debug\net7.0\Lista02.runtimeconfig.json
+C:\Users\elias\source\repos\ExemplosADS\Lista02\bin\Debug\net7.0\Lista02.dll
+C:\Users\elias\source\repos\ExemplosADS\Lista02\bin\Debug\net7.0\Lista02.pdb
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.AssemblyInfo.cs
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.dll
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\refint\Lista02.dll
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.pdb
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\Lista02.genruntimeconfig.cache
+C:\Users\elias\source\repos\ExemplosADS\Lista02\obj\Debug\net7.0\ref\Lista02.dll

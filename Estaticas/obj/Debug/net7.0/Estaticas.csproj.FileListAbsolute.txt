@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\bin\Debug\net7.0\Estaticas.exe
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\bin\Debug\net7.0\Estaticas.deps.json
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\bin\Debug\net7.0\Estaticas.runtimeconfig.json
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\bin\Debug\net7.0\Estaticas.dll
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\bin\Debug\net7.0\Estaticas.pdb
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.AssemblyInfo.cs
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.dll
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\refint\Estaticas.dll
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.pdb
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\Estaticas.genruntimeconfig.cache
+C:\Users\elias\source\repos\ExemplosADS\Estaticas\obj\Debug\net7.0\ref\Estaticas.dll

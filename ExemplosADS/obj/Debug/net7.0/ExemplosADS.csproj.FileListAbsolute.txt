@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\bin\Debug\net7.0\ExemplosADS.exe
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\bin\Debug\net7.0\ExemplosADS.deps.json
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\bin\Debug\net7.0\ExemplosADS.runtimeconfig.json
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\bin\Debug\net7.0\ExemplosADS.dll
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\bin\Debug\net7.0\ExemplosADS.pdb
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.AssemblyInfo.cs
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.dll
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\refint\ExemplosADS.dll
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.pdb
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ExemplosADS.genruntimeconfig.cache
+C:\Users\elias\source\repos\ExemplosADS\ExemplosADS\obj\Debug\net7.0\ref\ExemplosADS.dll
