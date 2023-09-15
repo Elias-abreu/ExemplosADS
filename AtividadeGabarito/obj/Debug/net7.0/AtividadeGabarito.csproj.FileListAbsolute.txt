@@ -1,0 +1,15 @@
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\bin\Debug\net7.0\AtividadeGabarito.exe
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\bin\Debug\net7.0\AtividadeGabarito.deps.json
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\bin\Debug\net7.0\AtividadeGabarito.runtimeconfig.json
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\bin\Debug\net7.0\AtividadeGabarito.dll
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\bin\Debug\net7.0\AtividadeGabarito.pdb
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.csproj.AssemblyReference.cache
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.AssemblyInfoInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.AssemblyInfo.cs
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.csproj.CoreCompileInputs.cache
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.dll
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\refint\AtividadeGabarito.dll
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.pdb
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\AtividadeGabarito.genruntimeconfig.cache
+C:\Users\elias\source\repos\ExemplosADS\AtividadeGabarito\obj\Debug\net7.0\ref\AtividadeGabarito.dll

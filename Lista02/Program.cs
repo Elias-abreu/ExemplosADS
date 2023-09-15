@@ -1,61 +1,29 @@
 ﻿
-string nomeT = Console.ReadLine();
+Titular t = new Titular();
+t.nome = "Elias";
+t.cpf = "053";
+t.email = "elias.silva";
+t.sexo = "M";
 
-Conta c = new Conta(nomeT, "01","001",0);
+Conta c = new Conta();
+c.numeroConta = "01";
+c.numeroAgencia = "0184-8";
+c.SetSaldoConta(0);
+c.titularConta = t;
 
-string novoNome = Console.ReadLine();
-c.SetNomeTitular(novoNome);
-
-Console.WriteLine(c.GetNomeTitular());
-
-
-
-
-
-/*
 List<Conta> contas = new List<Conta>();
-Conta c2 = new Conta();
-c2.SetNomeTitular("Elias");
-c2.numeroConta = "01";
-contas.Add(c2);
+contas.Add(c);
 
-Conta c3 = new Conta();
-c3.SetNomeTitular("Elias 2");
-c3.numeroConta = "02";
-contas.Add(c3);
 
-int index = contas.FindIndex(x => x.numeroConta == "02");
-Conta c4 = contas.ElementAt(index);
-Console.WriteLine("N "+ c4.nomeTitular);
-*/
-/*
-List <Conta> contas = new List<Conta>();
-while (true)
+foreach(Conta conta in contas)
 {
-    Console.WriteLine("Digite 1 para cadastrar uma conta, 2 para listar todos");
-    int opcao = Convert.ToInt32(Console.ReadLine());    
-    if(opcao == 1)
-    {
-        Console.WriteLine("Informe o titular, agência, conta e o saldo");
-        string titular = Console.ReadLine();
-        string agencia = Console.ReadLine();
-        string conta = Console.ReadLine();
-        double saldo = Convert.ToDouble(Console.ReadLine());
-        Conta c = new Conta(titular,agencia,conta,saldo);
-        contas.Add(c);
-    }else if(opcao == 2)
-    {
-        foreach(Conta conta in contas)
-        {
-            //Console.WriteLine($"Titular {conta.nomeTitular}, saldo {conta.saldoConta}");
-            Console.WriteLine(conta.ToString());
-        }
-    }
-    else
-    {
-        break;
-    }
-
+    //Console.WriteLine(conta.titularConta.nome);
 }
 
-*/
+List<string> list = new List<string>();
+list.Add("A");
+list.Add("B");
+list.Add("A");
+list.Add("E");
+int questao = 3;
+Console.WriteLine(list[questao-1]);

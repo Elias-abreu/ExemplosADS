@@ -5,7 +5,9 @@ valores de todos os atributos.*/
 
 public class Conta
 {
-    public string nomeTitular;
+    public Titular titularConta;
+
+
     public string numeroAgencia;
     public string numeroConta;
     private double saldoConta;
@@ -23,30 +25,17 @@ public class Conta
         
     }
 
-    public void SetNomeTitular(string titular)
-    {
-        if (!String.IsNullOrWhiteSpace(titular))
-        {
-            this.nomeTitular = titular;
-        }
-        else
-        {
-            Console.WriteLine("Valor inválido!");
-        }
-    }
 
-    public String GetNomeTitular()
-    {
-        return nomeTitular;
-    }
+
 
     public Conta()
     {
-
+        
     }
-    public Conta(string nomeTitular, string numeroAgencia, string numeroConta, double saldoConta)
+    public Conta(string nomeTitular, string numeroAgencia, 
+        string numeroConta, double saldoConta)
     {
-        this.SetNomeTitular(nomeTitular);
+
         this.numeroAgencia = numeroAgencia;
         this.numeroConta = numeroConta;
         this.saldoConta = saldoConta;
@@ -78,8 +67,4 @@ public class Conta
         return this.saldoConta;
     }
 
-    public override string ToString()
-    {
-        return this.nomeTitular+" "+this.saldoConta;
-    }
 }
